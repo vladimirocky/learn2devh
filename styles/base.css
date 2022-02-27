@@ -1,0 +1,15 @@
+#bod {
+    background: #212121;
+    color: azure;
+    font-family: "Bookman Old Style";
+    text-align: center;
+}
+li {
+    color: gold;
+    text-align: left;
+}
+hr {
+    border: none;
+    height: 2px;
+    background-color:#11999e;
+}
