@@ -1,3 +1,6 @@
-function speaking(message){
+'use strict';
+
+
+function speaking(message) {
     alert(message);
 }
